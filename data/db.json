@@ -1,0 +1,17 @@
+
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "100 days of coding",
+      "author": "Andrew Koller",
+      "id": 1
+    },
+    {
+      "title": "My Mission Statement",
+      "body": "Build apps that help people and teach other's learn to code",
+      "author": "Andrew Koller",
+      "id": 2
+    }
+  ]
+}
