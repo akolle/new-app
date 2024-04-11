@@ -27,7 +27,17 @@ const Bloglist = ({blogs, title, handleDelete}) => {
         {blogs.map((blog) => (
         <div className='blog-preview' key={blog.id}>
           <h2>{blog.title}</h2>
-          <h4>{blog.body}</h4>
+          
+          {blog.body.map((line)=> {
+            return (
+              <div>
+                <ul>
+                  <li>{line}</li>
+                </ul>
+              </div>
+            )
+          })}
+          
         </div>
     ))}
       </div>

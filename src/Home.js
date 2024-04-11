@@ -34,11 +34,39 @@ const Home = () => {
 
 const Home = () => {
   const [blogs, setBlogs] = useState([
-    {title: "Day 1", body: "Working on HTML. Building a cat photo app. Completed the Learn HTML by Building a Cat Photo App course on freeCodeCamp. Started Learn Basic CSS by Building a Café Menu.", id: 1},
-    {title: 'Day 2', body: "Completed Learn Basic CSS by Building a Café Menu", id: 2},
-    {title: 'Day 3', body: "Completed Learn CSS Colors by Building a Set of Colored Markers. Completed Learn HTML Forms by Building a Registration Form. Joined freeCodeCamp discord commited to 100 days of coding. Started Survey Form Certification Project", id: 3},
-    {title: 'Day 4', body: "Finished completing my first project - Survey Form. Started and completed Learn the CSS Box Model by Building a Rothko Painting. Started working on Learn CSS Flexbox by Building a Photo Gallery.", id: 4},
-    {title: 'Day 5', body: "Finished completing Learn CSS Flexbox by Building a Photo Gallery lesson. Started Learn Typography by Building a Nutrition Label", id: 5},
+    { 
+      title: "Day 1", 
+      body: ["Working on HTML. Building a cat photo app.",
+            "Completed the Learn HTML by Building a Cat Photo App course on freeCodeCamp",
+            "Started Learn Basic CSS by Building a Café Menu."],
+      id: 1
+    },
+    {
+      title: 'Day 2', 
+      body: ["Completed Learn Basic CSS by Building a Café Menu"],
+      id: 2
+    },
+    {
+      title: 'Day 3', 
+      body: ["Completed Learn CSS Colors by Building a Set of Colored Markers.",
+            "Completed Learn HTML Forms by Building a Registration Form.",
+            "Joined freeCodeCamp discord commited to 100 days of coding.",
+            "Started Survey Form Certification Project"],
+      id: 3
+    },
+    {
+      title: 'Day 4',
+      body: ["Finished completing my first project - Survey Form.",
+            "Started and completed Learn the CSS Box Model by Building a Rothko Painting.",
+            "Started working on Learn CSS Flexbox by Building a Photo Gallery."], 
+      id: 4
+    },
+    {
+      title: 'Day 5',
+      body: ["Finished completing Learn CSS Flexbox by Building a Photo Gallery lesson.",
+            "Started Learn Typography by Building a Nutrition Label",],
+      id: 5
+    }
     // {title: 'Day 6', body: "", id: 6},
     // {title: 'Day 7', body: "", id: 7},
     // {title: 'Day 8', body: "", id: 8},

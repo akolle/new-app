@@ -35,7 +35,7 @@
 }
 
 .content {
-  max-width: 600px;
+  max-width: auto;
   margin: 40px auto;
   padding: 20px;
 }
