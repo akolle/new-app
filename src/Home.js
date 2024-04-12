@@ -64,10 +64,125 @@ const Home = () => {
     {
       title: 'Day 5',
       body: ["Finished completing Learn CSS Flexbox by Building a Photo Gallery lesson.",
-            "Started Learn Typography by Building a Nutrition Label",],
+            "Started Learn Typography by Building a Nutrition Label"],
       id: 5
-    }
-    // {title: 'Day 6', body: "", id: 6},
+    },
+    {
+      title: 'Day 6',
+      body: ["Completed Learn Typography by Building a Nutrition Label",
+            "Started Learn Accessibility by Building a Quiz"], 
+      id: 6
+    },
+    {
+      title: 'Day 7',
+      body: ["Working through Learn Accessibility by Building a Quiz",
+            "Lessons are starting to get a little more challenging now"], 
+      id: 7
+    },
+    {
+      title: 'Day 8',
+      body: ["Completed the Learn Accessibility by Building a Quizz",
+            "Finished the Tribute Page Project",
+            "Starting the Learn More About CSS Pseudo Selectors By Building A Balance Sheet"], 
+      id: 8
+    },
+    {
+      title: 'Day 9',
+      body: ["Finished Learn More About CSS Pseudo Selectors By Building A Balance Sheet",
+            "Starting the Learn Intermediate CSS by Building a Cat Painting"], 
+      id: 9
+    },
+    {
+      title: 'Day 10',
+      body: ["Finished the Learn Intermediate CSS by Building a Cat Painting",
+            "Started and completed Learn Responsive Web Design by Building a Piano",
+            "Started and completed the Technical Documentation Page Project",
+            "Started the Learn CSS Variables by building a City Skyline"], 
+      id: 10
+    },
+    {
+      title: 'Day 11',
+      body: ["Finished the Learn CSS Variables by building a City Skyline",
+            "Starting Learn CSS Grid by Building a Magazine"], 
+      id: 11
+    },
+    {
+      title: 'Day 12',
+      body: ["Working through the CSS Grid by Building a Magazine lesson"], 
+      id: 12
+    },
+    {
+      title: 'Day 13',
+      body: ["Finished Learn CSS Grid by Building a Magazine lesson",
+            "Started the Product Landing page project"], 
+      id: 13
+    },
+    {
+      title: 'Day 14',
+      body: ["Finished the Product Landing page project"], 
+      id: 14
+    },
+    {
+      title: 'Day 15',
+      body: ["Started and completed the Learn CSS Animation by Building a Ferris Wheel",
+            "Started Learn CSS Transforms by Building a Penguin"], 
+      id: 15
+    },
+    {
+      title: 'Day 16',
+      body: ["Completed Learn CSS Transforms by Building a Penguin"], 
+      id: 16
+    },
+    {
+      title: 'Day 17',
+      body: ["Working on personal portfolio project",
+            "Starting Learn Basic Javascript by Building a Role Playing Game"], 
+      id: 17
+    },
+    {
+      title: 'Day 18',
+      body: ["Working on personal portfolio project",
+            "Starting Learn Basic Javascript by Building a Role Playing Game"], 
+      id: 18
+    },
+    {
+      title: 'Day 19',
+      body: ["Finished the Responsive Web Design Certification!",
+            "Continuing on to Basic JavaScript Building a Role Playing Game"], 
+      id: 19
+    },
+    {
+      title: 'Day 20',
+      body: ["Working through the JavaScript Building a Role Playing Game"], 
+      id: 20
+    },
+    {
+      title: 'Day 21',
+      body: ["Got my personal portfolio project up and running on github. Working on some updates with that"], 
+      id: 21
+    },
+    {
+      title: 'Day 22',
+      body: ["Still working on finishing up Basic JavaScript Building a Role Playing Game"], 
+      id: 22
+    },
+    {
+      title: 'Day 23',
+      body: ["Completed Learn Basic JavaScript Building a Role Playing Game",
+            "Started the Calorie Counter project"], 
+      id: 23
+    },
+    {
+      title: 'Day 24',
+      body: ["Completed the Calorie Counter project",
+            "Started Learn Basic String and Array Methods by Building a Music Player"], 
+      id: 24
+    },
+    {
+      title: 'Day 25',
+      body: ["Continuing to work through Learn Basic String and Array Methods by Building a Music Player"], 
+      id: 25
+    },
     // {title: 'Day 7', body: "", id: 7},
     // {title: 'Day 8', body: "", id: 8},
     // {title: 'Day 9', body: "", id: 9},
