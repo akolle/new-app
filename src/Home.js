@@ -183,6 +183,197 @@ const Home = () => {
       body: ["Continuing to work through Learn Basic String and Array Methods by Building a Music Player"], 
       id: 25
     },
+    {
+      title: 'Day 26',
+      body: ["Finished Learn Basic String and Array Methods by Building a Music Player"], 
+      id: 26
+    },
+    {
+      title: 'Day 27',
+      body: ["Started and completed the Learn the Date Object by Building a Date Formatter",
+            "Starting the Build a Palindrome Checker project"], 
+      id: 27
+    },
+    {
+      title: 'Day 28',
+      body: ["Working through Build a Palindrome Checker project"], 
+      id: 28
+    },
+    {
+      title: 'Day 29',
+      body: ["Worked for several hours on the palindrome checker project. Almost done!"], 
+      id: 29
+    },
+    {
+      title: 'Day 30',
+      body: ["Finished the Palindrome Checker project!",
+            "Started the Learn Modern JavaScript Methods by Building Football Team Cards"], 
+      id: 30
+    },
+    {
+      title: 'Day 31',
+      body: ["Working through the Learn Modern JavaScript Methods by Building Football Team Cards"], 
+      id: 31
+    },
+    {
+      title: 'Day 32',
+      body: ["Completed Learn Modern JavaScript Methods by Building Football Team Cards",
+            "Starting Learn localStorage by Building a ToDo App"], 
+      id: 32
+    },
+    {
+      title: 'Day 33',
+      body: ["Working through the Lean localStorage by Building a ToDo App"], 
+      id: 33
+    },
+    {
+      title: 'Day 34',
+      body: ["Finished Learn localStorage by Building a ToDo App",
+            "Started Learn Recursion by Building a Decimal to Binary Converter"], 
+      id: 34
+    },
+    {
+      title: 'Day 35',
+      body: ["Working through Learn Recursion by Building a Decimal to Binary Converter"], 
+      id: 35
+    },
+    {
+      title: 'Day 36',
+      body: ["Finished Learn Recursion by Building a Decimal to Binary Converter",
+            "Working on the Roman Numeral Converter Project"], 
+      id: 36
+    },
+    {
+      title: 'Day 37',
+      body: ["Working through the Roman Numeral Converter Project",
+            "Picked the laptop back up and finished Roman Numeral Converter Project!!!"], 
+      id: 37
+    },
+    {
+      title: 'Day 38',
+      body: ["Started and completed Learn Basic Algorithmic Thinking by Building a Number Sorter",
+            "Started Learn Advanced Array Methods by Building a Statistics Calculator"], 
+      id: 38
+    },
+    {
+      title: 'Day 39',
+      body: ["Finished Learn Advanced Array Methods by Building a Statistics Calculator",
+            "Started Learn Functional Programming by Building a Spreadsheet"], 
+      id: 39
+    },
+    {
+      title: 'Day 40',
+      body: ["Working through Learn Functional Programming by Building a Spreadsheet"], 
+      id: 40
+    },
+    {
+      title: 'Day 41',
+      body: ["Working through Learn Functional Programming by Building a Spreadsheet"], 
+      id: 41
+    },
+    {
+      title: 'Day 42',
+      body: ["Working through Learn Functional Programming by Building a Spreadsheet"], 
+      id: 42
+    },
+    {
+      title: 'Day 43',
+      body: ["Completed Learn Functional Programming by Building a Spreadsheet",
+            "Starting Learn Regular Expressions by Building a Spam Filter"], 
+      id: 43
+    },
+    {
+      title: 'Day 44',
+      body: ["Working through Learn Regular Expressions by Building a Spam Filter"], 
+      id: 44
+    },
+    {
+      title: 'Day 45',
+      body: ["Completed Learn Regular Expression by Building a Spam Filter",
+            "Completed Build a Telephone Number Validator Project",
+            "Starting Learn Basic OOP by Building a Shopping Cart"], 
+      id: 45
+    },
+    {
+      title: 'Day 46',
+      body: ["Working through Learn Basic OOP by Building a Shopping Cart"], 
+      id: 44
+    },
+    {
+      title: 'Day 47',
+      body: ["Working through Learn Basic OOP by Building a Shopping Cart"], 
+      id: 47
+    },
+    {
+      title: 'Day 48',
+      body: ["Completed Learn Basic OOP by Building a Shopping Cart",
+            "Starting the Learn Intermediate OOP by Building a Platformer Game"], 
+      id: 48
+    },
+    {
+      title: 'Day 49',
+      body: ["Working through the Learn Intermediate OOP by Building a Platformer Game"], 
+      id: 49
+    },
+    {
+      title: 'Day 50',
+      body: ["Completed the Learn Intermediate OOP by Building a Platformer Game"], 
+      id: 50
+    },
+    {
+      title: 'Day 51',
+      body: ["Started Learn Intermediate Algorithmic Thinking by Building a Dice Game"], 
+      id: 51
+    },
+    {
+      title: 'Day 52',
+      body: ["Completed Learn Intermediate Algorithmic Thinking by Building a Dice Game",
+            "Started working on the Cash Register Project"], 
+      id: 52
+    },
+    {
+      title: 'Day 53',
+      body: ["Working on the Cash Register Project"], 
+      id: 53
+    },
+    {
+      title: 'Day 54',
+      body: ["Working on the Cash Register Project"], 
+      id: 54
+    },
+    {
+      title: 'Day 55',
+      body: ["Still working on the Cash Register Project. Should be able to finish tomorrow"], 
+      id: 55
+    },
+    {
+      title: 'Day 56',
+      body: ["I FINISHED THE C ASH REGISTER PROJECT WOOOHOOOOOOOOOOOOO"], 
+      id: 56
+    },
+    {
+      title: 'Day 57',
+      body: ["Started and completed Learn Fetch and Promises by Building an fCC Authors Page",
+            "Started Learn Asynchronous Programming by Building an fCC Forum Leaderboard"], 
+      id: 57
+    },
+    {
+      title: 'Day 58',
+      body: ["Finished Learn Asynchronous Programming by Building an fCC Forum Leaderboard",
+            "Started the Pokeman Search App Project"], 
+      id: 58
+    },
+    {
+      title: 'Day 59',
+      body: ["Working through the Pokemon Search App Project"], 
+      id: 59
+    },
+    {
+      title: 'Day 60',
+      body: ["Working through the Pokemon Search App Project"], 
+      id: 60
+    },
+    
     // {title: 'Day 7', body: "", id: 7},
     // {title: 'Day 8', body: "", id: 8},
     // {title: 'Day 9', body: "", id: 9},
