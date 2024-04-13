@@ -1,6 +1,8 @@
 /*@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap')
 
 /* base styles */
+
+
 * {
   margin: 0;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -9,14 +11,16 @@
 
 .navbar {
   padding: 20px;
-  display: flex;
-  align-items: center;
-  max-width: 600px;
+  /* display: flex;
+  align-items: center; */
+  /* max-width: 600px; */
   margin: 0 auto;
   border-bottom: 1px solid lightgray;
 }
 
+
 .navbar h1 {
+  text-align: center;
   color: #f1356d;
 }
 
